@@ -1,4 +1,4 @@
-# 🕹️ Tic Tac Toe - Farhan's Edition
+# 🕹️ Tic Tac Toe 
 
 A fun and stylish implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
@@ -7,8 +7,5 @@ A fun and stylish implementation of the classic Tic Tac Toe game using HTML, CSS
 - Win and draw detection
 - Stylish UI and animations
 - Fully playable in browser
-
-## 🗓️ Contribution Year
-Backdated to simulate development during **2022**.
 
 Made with ❤️ by **Farhan Labib**
